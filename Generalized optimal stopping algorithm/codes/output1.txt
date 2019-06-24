@@ -1,0 +1,422 @@
+BEFORE FRIEND ATTACHMENT :-
+Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 1881
+Average degree:   6.1672 Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 1830
+Average degree:   6.0000 Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 2424
+Average degree:   7.9475
+Movies :  9742 <class 'dict'>
+User to movie mapping :  610 <class 'dict'>
+here
+here
+random_graph  Summary :  Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 3231
+Average degree:  10.5934
+Node  88  Neighbours :  9
+finalset size :  13
+USER :  88
+Actual :  43
+Recommended Movies:  651
+Hits :  37
+PERFECT HITS :  0.8604651162790697
+ERROR :  614
+
+Node  338  Neighbours :  4
+finalset size :  11
+USER :  338
+Actual :  15
+Recommended Movies:  680
+Hits :  13
+PERFECT HITS :  0.8666666666666667
+ERROR :  667
+
+Node  259  Neighbours :  4
+finalset size :  3
+USER :  259
+Actual :  15
+Recommended Movies:  130
+Hits :  2
+PERFECT HITS :  0.13333333333333333
+ERROR :  128
+
+Node  434  Neighbours :  27
+finalset size :  12
+USER :  434
+Actual :  131
+Recommended Movies:  800
+Hits :  113
+PERFECT HITS :  0.8625954198473282
+ERROR :  687
+
+Node  356  Neighbours :  12
+finalset size :  16
+USER :  356
+Actual :  189
+Recommended Movies:  366
+Hits :  71
+PERFECT HITS :  0.37566137566137564
+ERROR :  295
+
+Node  239  Neighbours :  21
+finalset size :  19
+USER :  239
+Actual :  199
+Recommended Movies:  892
+Hits :  152
+PERFECT HITS :  0.7638190954773869
+ERROR :  740
+
+Node  126  Neighbours :  21
+finalset size :  13
+USER :  126
+Actual :  18
+Recommended Movies:  57
+Hits :  13
+PERFECT HITS :  0.7222222222222222
+ERROR :  44
+
+Node  137  Neighbours :  11
+finalset size :  12
+USER :  137
+Actual :  89
+Recommended Movies:  307
+Hits :  52
+PERFECT HITS :  0.5842696629213483
+ERROR :  255
+
+Node  526  Neighbours :  8
+finalset size :  5
+USER :  526
+Actual :  48
+Recommended Movies:  493
+Hits :  23
+PERFECT HITS :  0.4791666666666667
+ERROR :  470
+
+Node  565  Neighbours :  14
+finalset size :  21
+USER :  565
+Actual :  16
+Recommended Movies:  76
+Hits :  15
+PERFECT HITS :  0.9375
+ERROR :  61
+
+random_graph perfect hit percent is :  0.6585699559075398
+
+random_graph MAE :  396.1
+
+here
+small_world  Summary :  Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 3227
+Average degree:  10.5803
+Node  88  Neighbours :  5
+finalset size :  2
+{189, 407}
+USER :  88
+Actual :  43
+Recommended Movies:  305
+Hits :  14
+PERFECT HITS :  0.32558139534883723
+ERROR :  291
+
+Node  338  Neighbours :  7
+finalset size :  11
+USER :  338
+Actual :  15
+Recommended Movies:  225
+Hits :  11
+PERFECT HITS :  0.7333333333333333
+ERROR :  214
+
+Node  259  Neighbours :  6
+finalset size :  4
+USER :  259
+Actual :  15
+Recommended Movies:  165
+Hits :  5
+PERFECT HITS :  0.3333333333333333
+ERROR :  160
+
+Node  434  Neighbours :  29
+finalset size :  8
+USER :  434
+Actual :  131
+Recommended Movies:  507
+Hits :  127
+PERFECT HITS :  0.9694656488549618
+ERROR :  380
+
+Node  356  Neighbours :  12
+finalset size :  15
+USER :  356
+Actual :  189
+Recommended Movies:  798
+Hits :  115
+PERFECT HITS :  0.6084656084656085
+ERROR :  683
+
+Node  239  Neighbours :  24
+finalset size :  22
+USER :  239
+Actual :  199
+Recommended Movies:  1002
+Hits :  159
+PERFECT HITS :  0.7989949748743719
+ERROR :  843
+
+Node  126  Neighbours :  25
+finalset size :  11
+USER :  126
+Actual :  18
+Recommended Movies:  59
+Hits :  13
+PERFECT HITS :  0.7222222222222222
+ERROR :  46
+
+Node  137  Neighbours :  8
+finalset size :  10
+USER :  137
+Actual :  89
+Recommended Movies:  973
+Hits :  71
+PERFECT HITS :  0.797752808988764
+ERROR :  902
+
+Node  526  Neighbours :  9
+finalset size :  14
+USER :  526
+Actual :  48
+Recommended Movies:  295
+Hits :  22
+PERFECT HITS :  0.4583333333333333
+ERROR :  273
+
+Node  565  Neighbours :  18
+finalset size :  8
+USER :  565
+Actual :  16
+Recommended Movies:  44
+Hits :  15
+PERFECT HITS :  0.9375
+ERROR :  29
+
+small_world perfect hit percent is :  0.6684982658754766
+
+small_world MAE :  382.1
+
+here
+pref_attachment  Summary :  Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 3841
+Average degree:  12.5934
+Node  88  Neighbours :  14
+finalset size :  27
+USER :  88
+Actual :  43
+Recommended Movies:  1236
+Hits :  41
+PERFECT HITS :  0.9534883720930233
+ERROR :  1195
+
+Node  338  Neighbours :  6
+finalset size :  18
+USER :  338
+Actual :  15
+Recommended Movies:  527
+Hits :  11
+PERFECT HITS :  0.7333333333333333
+ERROR :  516
+
+Node  259  Neighbours :  6
+finalset size :  29
+USER :  259
+Actual :  15
+Recommended Movies:  528
+Hits :  8
+PERFECT HITS :  0.5333333333333333
+ERROR :  520
+
+Node  434  Neighbours :  33
+finalset size :  19
+USER :  434
+Actual :  131
+Recommended Movies:  1040
+Hits :  125
+PERFECT HITS :  0.9541984732824428
+ERROR :  915
+
+Node  356  Neighbours :  6
+finalset size :  12
+USER :  356
+Actual :  189
+Recommended Movies:  731
+Hits :  110
+PERFECT HITS :  0.582010582010582
+ERROR :  621
+
+Node  239  Neighbours :  25
+finalset size :  13
+USER :  239
+Actual :  199
+Recommended Movies:  767
+Hits :  150
+PERFECT HITS :  0.7537688442211056
+ERROR :  617
+
+Node  126  Neighbours :  26
+finalset size :  13
+USER :  126
+Actual :  18
+Recommended Movies:  61
+Hits :  12
+PERFECT HITS :  0.6666666666666666
+ERROR :  49
+
+Node  137  Neighbours :  10
+finalset size :  15
+USER :  137
+Actual :  89
+Recommended Movies:  649
+Hits :  59
+PERFECT HITS :  0.6629213483146067
+ERROR :  590
+
+Node  526  Neighbours :  7
+finalset size :  13
+USER :  526
+Actual :  48
+Recommended Movies:  283
+Hits :  21
+PERFECT HITS :  0.4375
+ERROR :  262
+
+Node  565  Neighbours :  12
+finalset size :  8
+USER :  565
+Actual :  16
+Recommended Movies:  48
+Hits :  15
+PERFECT HITS :  0.9375
+ERROR :  33
+
+pref_attachment perfect hit percent is :  0.7214720953255094
+
+pref_attachment MAE :  531.8
+
+here
+social_graph  Summary :  Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 5247
+Average degree:  17.2033
+Node  88  Neighbours :  18
+finalset size :  1
+{88}
+USER :  88
+Actual :  43
+Recommended Movies:  411
+Hits :  41
+PERFECT HITS :  0.9534883720930233
+ERROR :  370
+
+Node  338  Neighbours :  2
+finalset size :  1
+{433}
+USER :  338
+Actual :  15
+Recommended Movies:  58
+Hits :  9
+PERFECT HITS :  0.6
+ERROR :  49
+
+Node  259  Neighbours :  1
+finalset size :  1
+{259}
+USER :  259
+Actual :  15
+Recommended Movies:  10
+Hits :  10
+PERFECT HITS :  0.6666666666666666
+ERROR :  0
+
+Node  434  Neighbours :  78
+finalset size :  23
+USER :  434
+Actual :  131
+Recommended Movies:  815
+Hits :  127
+PERFECT HITS :  0.9694656488549618
+ERROR :  688
+
+Node  356  Neighbours :  20
+finalset size :  19
+USER :  356
+Actual :  189
+Recommended Movies:  1060
+Hits :  128
+PERFECT HITS :  0.6772486772486772
+ERROR :  932
+
+Node  239  Neighbours :  63
+finalset size :  16
+USER :  239
+Actual :  199
+Recommended Movies:  744
+Hits :  161
+PERFECT HITS :  0.8090452261306532
+ERROR :  583
+
+Node  126  Neighbours :  46
+finalset size :  22
+USER :  126
+Actual :  18
+Recommended Movies:  72
+Hits :  13
+PERFECT HITS :  0.7222222222222222
+ERROR :  59
+
+Node  137  Neighbours :  19
+finalset size :  1
+{137}
+USER :  137
+Actual :  89
+Recommended Movies:  811
+Hits :  84
+PERFECT HITS :  0.9438202247191011
+ERROR :  727
+
+Node  526  Neighbours :  2
+finalset size :  1
+{526}
+USER :  526
+Actual :  48
+Recommended Movies:  86
+Hits :  46
+PERFECT HITS :  0.9583333333333334
+ERROR :  40
+
+Node  565  Neighbours :  46
+finalset size :  20
+USER :  565
+Actual :  16
+Recommended Movies:  74
+Hits :  15
+PERFECT HITS :  0.9375
+ERROR :  59
+
+social_graph perfect hit percent is :  0.8237790371268637
+
+social_graph MAE :  350.7

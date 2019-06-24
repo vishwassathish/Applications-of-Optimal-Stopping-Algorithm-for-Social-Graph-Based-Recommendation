@@ -1,0 +1,57 @@
+// 100 users
+BEFORE FRIEND ATTACHMENT :-
+Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 1873
+Average degree:   6.1410 Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 1830
+Average degree:   6.0000 Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 2424
+Average degree:   7.9475
+Movies :  9742 <class 'dict'>
+User to movie mapping :  610 <class 'dict'>
+here
+here
+random_graph  Summary :  Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 3231
+Average degree:  10.5934
+random_graph perfect hit percent is :  0.5853794498493324
+
+random_graph MAE :  0.8849114380014982
+
+here
+small_world  Summary :  Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 3227
+Average degree:  10.5803
+small_world perfect hit percent is :  0.6151264878390054
+
+small_world MAE :  0.8821256932704836
+
+here
+pref_attachment  Summary :  Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 3841
+Average degree:  12.5934
+pref_attachment perfect hit percent is :  0.6581823433473925
+
+pref_attachment MAE :  0.8986571594639706
+
+here
+social_graph  Summary :  Name:
+Type: Graph
+Number of nodes: 610
+Number of edges: 5247
+Average degree:  17.2033
+social_graph perfect hit percent is :  0.6957111024594591
+
+social_graph MAE :  0.6745167750623554
